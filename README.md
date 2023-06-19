@@ -1,6 +1,6 @@
 # Flutter News Service Package
 
-The Flutter News Service package is a library for interacting with [NewsAPI.org](https://newsapi.org/). [NewsAPI.org](https://newsapi.org/) provides a service API that delivers news from various sources worldwide. With this Flutter News Service, you can filter news by keyword, source, language, and many other criteria. The news can also be sorted by publication time.
+The Flutter News Service package is a library for interacting with [NewsAPI.org](https://newsapi.org/). [NewsAPI.org](https://newsapi.org/) provides a service API that delivers news from various sources worldwide. With this Flutter News Service, you can filter news by keyword, source, language, and many other criteria. The news can also be sorted by publication time. Ideal for news-based applications.
 
 ## Usage
 
@@ -38,7 +38,7 @@ flutter test
 ```
 
 ### Screenshots
-| ![News View](./example/screenshots/news.gif) |
+| ![News View](https://raw.githubusercontent.com/chuyentt/flutter_news_service/main/example/screenshots/news.gif) |
 | :------------------------------------: | 
 |            *News Reader View*                 |
 
