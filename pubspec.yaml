@@ -1,9 +1,9 @@
 name: flutter_news_service
-description: The Flutter News Service is a Dart package designed for accessing worldwide news data from NewsAPI.org. It can filter news by keyword, source, language and more. Ideal for news-based applications.
+description: A Dart package designed for accessing worldwide news data from NewsAPI.org. It can filter news by keyword, source, language and more. Ideal for news-based applications.
 
 # The next line is a link to your package's online repository (if it has one).
 repository: https://github.com/chuyentt/flutter_news_service
-version: 1.0.1
+version: 1.0.2
 
 environment:
   # The Dart SDK version that your package is compatible with.

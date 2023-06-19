@@ -37,6 +37,11 @@ This package provides unit tests to ensure that the main functionalities work co
 flutter test
 ```
 
+### Screenshots
+| ![News View](./example/screenshots/news.gif) |
+| :------------------------------------: | 
+|            *News Reader View*                 |
+
 ### Suggestions & Bug Reporting
 
 If you have any suggestions or encounter any bugs while using this package, do not hesitate to create an [issue tracker][tracker] on our GitHub page.
