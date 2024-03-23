@@ -1,4 +1,4 @@
-part of flutter_news_service;
+part of '../flutter_news_service.dart';
 
 /// The `FlutterNewsService` class provides methods for fetching news from NewsAPI.org.
 ///

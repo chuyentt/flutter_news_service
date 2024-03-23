@@ -1,3 +1,7 @@
+# 1.0.4
+
+- Fix part-of directive issues by replacing library names with paths
+
 ## 1.0.3
 
 - Updated README.md

@@ -1,4 +1,4 @@
-part of flutter_news_service;
+part of '../../flutter_news_service.dart';
 
 /// Represents the response from the News API when fetching articles.
 ///

@@ -3,11 +3,11 @@ description: A Dart package designed for accessing worldwide news data from News
 
 # The next line is a link to your package's online repository (if it has one).
 repository: https://github.com/chuyentt/flutter_news_service
-version: 1.0.3
+version: 1.0.4
 
 environment:
   # The Dart SDK version that your package is compatible with.
-  sdk: '>=2.14.0 <4.0.0'
+  sdk: ">=2.14.0 <4.0.0"
 
 dependencies:
   # The http package provides a set of high-level functions for use with "http" requests.
@@ -15,7 +15,7 @@ dependencies:
 
 dev_dependencies:
   # The lints package provides recommended lint rules.
-  lints: ^2.0.0
+  lints: ^3.0.0
   # The test package provides a core framework for writing tests in Dart.
   test: ^1.21.0
   # The mockito package provides a framework for mocking objects in Dart.

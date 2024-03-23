@@ -1,4 +1,4 @@
-part of flutter_news_service;
+part of '../../flutter_news_service.dart';
 
 /// Represents the source of a news article fetched from the News API.
 ///
